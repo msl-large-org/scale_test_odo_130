@@ -1,0 +1,8 @@
+
+        [default]
+        aws_access_key_id = DUMMYACCESSKEY1234567890
+        aws_secret_access_key = DUMMYSECRETACCESSKEY1234567890abcdefg
+
+                String aws_secret1 = "AKIAIMNOJVGFDXXXE4OC";
+String aws_secret1 = "AKIAIMNOJVGFDXXXE4OC";
+String aws_secret1 = "AKIAIMNOJVGFDXXXE4OC";
